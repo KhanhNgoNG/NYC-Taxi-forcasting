@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+
+# Local artifacts are supplied separately; publish directory placeholders only.
+/config/*
+!/config/.gitkeep
+/graph/*
+!/graph/.gitkeep
+/inference/*
+!/inference/.gitkeep
+/map/*
+!/map/.gitkeep
+/model/*
+!/model/.gitkeep
+/reference/*
+!/reference/.gitkeep

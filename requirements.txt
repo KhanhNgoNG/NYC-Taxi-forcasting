@@ -1,0 +1,9 @@
+torch>=2.6
+numpy>=1.26
+pandas>=2.2
+streamlit>=1.45
+geopandas>=1.0
+folium>=0.19
+streamlit-folium>=0.25
+shapely>=2.0
+pyproj>=3.6
